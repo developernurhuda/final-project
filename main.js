@@ -1,5 +1,9 @@
 "use strict";
-console.log("Hello Nurhuda");
+let num = 10;
+let newNum = 20;
 
-console.log(typeof "nurhuda");
-
+if (num == newNum) {
+  console.log("Right");
+} else {
+  console.log("Wrong");
+}
