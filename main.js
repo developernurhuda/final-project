@@ -7,3 +7,6 @@ if (num == newNum || num < newNum) {
 } else {
   console.log("Wrong");
 }
+
+console.log("new file added");
+
